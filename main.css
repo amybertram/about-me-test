@@ -1,0 +1,17 @@
+* {
+text-align: center;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+address {
+	font-size: 12px;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
